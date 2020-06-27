@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/shutdown_s"
+        android:title="@string/shutdown_s"/>
+    <item
+        android:id="@+id/shutdown_r"
+        android:title="@string/shutdown_r"
+        />
+    <item
+        android:id="@+id/shutdown_l"
+        android:title="@string/shutdown_l"
+        />
+
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">电脑控</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">打开</string>
+    <string name="ip_address">电脑的IP地址:</string>
+    <string name="server_port">端口号:</string>
+    <string name="hint_ip">填入电脑在局域网中的IP地址</string>
+    <string name="hint_port">服务端程序监听的端口号</string>
+    <string name="save">记住IP与端口</string>
+    <string name="conn">连接</string>
+    <string name="config">连接配置</string>
+    <string name="conn_status">连接状态:未连接</string>
+    <string name="operate">基本操作</string>
+    <string name="go">执行</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="shutdown_s">立即关机</string>
+    <string name="shutdown_r">立即重启</string>
+    <string name="shutdown_l">立即注销</string>
+    <string name="tips">小提示：填写的时间不要超过一天</string>
+    <string name="version">当前版本:</string>
+    <string name="sw">启动程序时自动连接电脑</string>
+</resources>
